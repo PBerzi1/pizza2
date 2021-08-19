@@ -1,3 +1,4 @@
+DROP DATABASE IF EXISTS pizza2;
 CREATE DATABASE pizza2;
 USE pizza2;
 
