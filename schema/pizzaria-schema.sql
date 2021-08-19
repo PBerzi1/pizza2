@@ -13,7 +13,7 @@ CREATE TABLE pizzas(
 
 
 CREATE TABLE customer(
-	customer_id INT,
+	customer_id INT AUTO_INCREMENT,
 	customer_name VARCHAR(50),
 	customer_address VARCHAR(70),
 	new_member BOOLEAN,
